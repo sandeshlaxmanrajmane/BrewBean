@@ -66,10 +66,10 @@ Both accounts are pre-seeded in the cryptographic vault. The login pages also fe
 
 ```bash
 # Navigate to the project directory
-cd "C:\Users\Sandesh Rajmane\.gemini\antigravity\scratch\brewbean-coffee-shop"
+
 
 # Start the Vite development server
 npm run dev
 ```
 
-Visit `http://localhost:5173` in your browser.
+Visit `https://brew-bean-ashen.vercel.app/` in your browser.
